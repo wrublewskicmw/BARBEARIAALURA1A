@@ -1,19 +1,26 @@
 body{
-    background: #cccccc;
+        
 }
 #banner{
 width:100%;
 }
+.principal 
+{ 
+  background: #ccccc; 
+  padding: 30px; 
+     }
 h1{
     text-align: center;
-     }
+}
 p{
     text-align: center;
-}
-    #missao {
+     }
+   em strong{
+    text-align: center;
+     }
+     #missao {
         font-size: 20px;
-    }
-em strong {
+    }em strong {
         color: rgba(255, 0, 98, 0.914);
     }
 
